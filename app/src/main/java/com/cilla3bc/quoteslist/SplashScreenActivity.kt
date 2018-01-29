@@ -17,7 +17,7 @@ class SplashScreenActivity : AppCompatActivity() {
 
         val myTypeface = Typeface.createFromAsset(
                 this.assets,
-                "font/BLKCHCRY.TTF")
+                "BLKCHCRY.TTF")
 
         title.typeface = myTypeface
 
